@@ -3,8 +3,8 @@ package git01;
 public class TestGit {
 
 	public static void main(String[] args) {
-		System.out.print("hola mundo");
-
+		String name = "Bugs Bynny";
+		System.out.print("Hello " + name + "!");
 	}
 
 }
